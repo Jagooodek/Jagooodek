@@ -2,6 +2,7 @@
 
 
 [Link do strony GitHub Pages](https://jagooodek.github.io/)
+[Link do forka](https://github.com/Jagooodek/DECA)
 <!--
 **Jagooodek/Jagooodek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
