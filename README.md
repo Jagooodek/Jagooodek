@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-[Link do strony GitHub Pages](jagooodek.github.io)
+[Link do strony GitHub Pages](https://jagooodek.github.io/)
 <!--
 **Jagooodek/Jagooodek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
